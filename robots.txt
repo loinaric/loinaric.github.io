@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loinaric.github.io/sitemap.html.gz
+Sitemap: https://loinaric.github.io/app/sitemap.html.gz
+Sitemap: https://loinaric.github.io/assets/sitemap.html.gz
+Sitemap: https://loinaric.github.io/css/sitemap.html.gz
+Sitemap: https://loinaric.github.io/includes/sitemap.html.gz
+Sitemap: https://loinaric.github.io/item/sitemap.html.gz
+Sitemap: https://loinaric.github.io/src/sitemap.html.gz
